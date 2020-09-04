@@ -1,7 +1,7 @@
 ﻿#
 # Search Application
 #
-# Author: Josh Gigliotti
+# Author: Joshua Gigliotti
 #
 # Date: July 3, 2020
 #
